@@ -2,6 +2,7 @@
 KiCad Libraries for MechLlama projects
 
 ## Footprints
+### `MechLlama.pretty`
 - `Buzzer_SMD_KLJ-1102_11x9`: Buzzer footprint for Keliking KLJ-1102 low profile piezo buzzer.
 - `D_SOD-123_Nice`: KiCad D_SOD-123 footprint with diode symbol between pads.
 - `LED_WS-2812B-Mini_Cutout`: Worldsemi WS-2812B-Mini footprint with edge cuts and reversed pads. For placement under key switches.
@@ -15,6 +16,7 @@ KiCad Libraries for MechLlama projects
 - `Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical`: KiCad Tag Connect ISP header pads with connector outline on silkscreen.
 - `USB_C_Receptacle_HRO_TYPE-C-31-M-12`: Korean Hroparts Elec TYPE-C-31-M-12 footprint with correct KiCad pad names. Use with `USB_C_Receptacle_USB2.0-ReducedPins` schematic.
 
-## Schematics
+## Symbols
+### `MechLlama.lib`
 - `USB_C_Receptacle_USB2.0-ReducedPins`: KiCad USBC2.0 schematic with overlapping pins removed.
 - `SW_Push_PinReverse`: KiCad SW_Push_Pin schematic reversed to nicer schematic layout in Eeschema.
