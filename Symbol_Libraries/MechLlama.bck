@@ -1,15 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM32_SWD
+D debug header for stm32 SWD
+K connector
+F ~
+$ENDCMP
+#
+$CMP STM32_SWD_TC2030
+D Tag connect header for STM32 SWD
+K connector
+F ~
+$ENDCMP
+#
 $CMP SW_Push_Pin-Reversed
 D Push button switch, generic, two pins, reversed to make layout nicer
 K switch normally-open pushbutton push-button
 F ~
 $ENDCMP
 #
-$CMP SW_Push_PinReverse
-D Push button switch, generic, two pins, reversed to make layout nicer
-K switch normally-open pushbutton push-button
-F ~
+$CMP TPD2E1B06
+D Dual-Channel High-Speed ESD Protection
+K ESD-Protection
+F http://www.ti.com/product/TPD2E1B06
 $ENDCMP
 #
 $CMP USB_C_Receptacle_USB2.0-ReducedPins
