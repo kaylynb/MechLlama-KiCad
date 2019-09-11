@@ -20,3 +20,4 @@ KiCad Libraries for MechLlama projects
 ### `MechLlama.lib`
 - `USB_C_Receptacle_USB2.0-ReducedPins`: KiCad USBC2.0 schematic with overlapping pins removed.
 - `SW_Push_PinReverse`: KiCad SW_Push_Pin schematic reversed to nicer schematic layout in Eeschema.
+- `TCA9617A`: TI FM+ i2c bus repeater.
