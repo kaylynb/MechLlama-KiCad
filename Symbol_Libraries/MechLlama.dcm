@@ -12,6 +12,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP STM32_SWD_NOSWO
+D debug header for stm32 SWD
+K connector
+F ~
+$ENDCMP
+#
 $CMP SW_Push_Pin-Reversed
 D Push button switch, generic, two pins, reversed to make layout nicer
 K switch normally-open pushbutton push-button
