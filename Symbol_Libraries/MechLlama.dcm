@@ -6,6 +6,12 @@ K i2c bus repeater buffer
 F https://www.nxp.com/docs/en/data-sheet/PCA9617A.pdf
 $ENDCMP
 #
+$CMP PCA9675D
+D Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt
+K i2c bus expander io fm+
+F https://www.nxp.com/docs/en/data-sheet/PCA9675.pdf
+$ENDCMP
+#
 $CMP STM32_SWD
 D debug header for stm32 SWD
 K connector
