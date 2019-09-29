@@ -81,7 +81,7 @@ ENDDEF
 # SW_Push_Pin-Reversed
 #
 DEF SW_Push_Pin-Reversed SW 0 40 N N 1 F N
-F0 "SW" 50 100 50 H V L CNN
+F0 "SW" 0 100 50 H V L CNN
 F1 "SW_Push_Pin-Reversed" 0 -60 50 H V C CNN
 F2 "" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
