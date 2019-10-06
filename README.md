@@ -7,6 +7,8 @@ KiCad Libraries for MechLlama projects
 - `D_SOD-123_Nice`: KiCad D_SOD-123 footprint with diode symbol between pads.
 - `LED_WS-2812B-Mini_Cutout`: Worldsemi WS-2812B-Mini footprint with edge cuts and reversed pads. For placement under key switches.
 - `LED_WS-2812B-Mini`: Worldsemi WS-2812B-Mini footprint for surface mount placement.
+- `LED_Wurth_150141M173100_Cutout`: Wurth WL-SFTW SMT Full-color LED with edge cuts and reversed pads. For placement under key switches.
+- `LED_Wurth_150141M173100`: Wurth WL-SFTW SMT Full-color LED for surface mount placement.
 - `MountingHole_4.5mm_SpacerThrough`: Hole for M2 spacers.
 - `PinHeader_1x05_P2.54mm_Vertical_STM32_SWD_Debug_Header`: 1 row pin header for STM32 debugger.
 - `PinHeader_1x06_P2.54mm_Vertical_ISP`: 1 row pin header for ISP programmer. Silkscreen on both sides.
