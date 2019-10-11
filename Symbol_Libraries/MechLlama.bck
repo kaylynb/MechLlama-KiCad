@@ -6,13 +6,13 @@ K i2c bus repeater buffer
 F https://www.nxp.com/docs/en/data-sheet/PCA9617A.pdf
 $ENDCMP
 #
-$CMP PCA9655
+$CMP PCA9675D
 D Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt
 K i2c bus expander io fm+
-F http://www.ti.com/lit/ds/symlink/tca9617a.pdf
+F https://www.nxp.com/docs/en/data-sheet/PCA9675.pdf
 $ENDCMP
 #
-$CMP PCA9675D
+$CMP PCA9675PW
 D Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt
 K i2c bus expander io fm+
 F https://www.nxp.com/docs/en/data-sheet/PCA9675.pdf

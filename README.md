@@ -22,7 +22,7 @@ KiCad Libraries for MechLlama projects
 
 ## Symbols
 ### `MechLlama.lib`
-- `PCA9675D`: Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt.
+- `PCA9675PW`: Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt.
 - `STM32_SWD`: debug header for stm32 SWD
 - `STM32_SWD`: debug header for stm32 SWD with no SWO pin
 - `SW_Push_PinReverse`: KiCad SW_Push_Pin schematic reversed to nicer schematic layout in Eeschema.
