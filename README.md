@@ -4,7 +4,6 @@ KiCad Libraries for MechLlama projects
 ## Footprints
 ### `MechLlama.pretty`
 - `Buzzer_SMD_KLJ-1102_11x9`: Buzzer footprint for Keliking KLJ-1102 low profile piezo buzzer.
-- `D_SOD-123_Nice`: KiCad D_SOD-123 footprint with diode symbol between pads.
 - `LED_WS-2812B-Mini_Cutout`: Worldsemi WS-2812B-Mini footprint with edge cuts and reversed pads. For placement under key switches.
 - `LED_WS-2812B-Mini`: Worldsemi WS-2812B-Mini footprint for surface mount placement.
 - `LED_Wurth_150141M173100_Cutout`: Wurth WL-SFTW SMT Full-color LED with edge cuts and reversed pads. For placement under key switches.
