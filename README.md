@@ -4,6 +4,7 @@ KiCad Libraries for MechLlama projects
 ## Footprints
 ### `MechLlama.pretty`
 - `Buzzer_SMD_KLJ-1102_11x9`: Buzzer footprint for Keliking KLJ-1102 low profile piezo buzzer.
+- `D_SOD-123-DualSide`: KiCad D_SOD-123 Footprint modified with vias and double sided pads to allow installation on either side of board.
 - `LED_WS-2812B-Mini_Cutout`: Worldsemi WS-2812B-Mini footprint with edge cuts and reversed pads. For placement under key switches.
 - `LED_WS-2812B-Mini`: Worldsemi WS-2812B-Mini footprint for surface mount placement.
 - `LED_Wurth_150141M173100_Cutout`: Wurth WL-SFTW SMT Full-color LED with edge cuts and reversed pads. For placement under key switches.
@@ -21,9 +22,10 @@ KiCad Libraries for MechLlama projects
 
 ## Symbols
 ### `MechLlama.lib`
+- `OLED_SSD1306`: SSD1306 clone 4-pin
 - `PCA9675PW`: Remote 16-bit I/O Expander for Fm+ I2C-bus with interrupt.
-- `STM32_SWD`: debug header for stm32 SWD
-- `STM32_SWD`: debug header for stm32 SWD with no SWO pin
+- `STM32_SWD`: Debug header for stm32 SWD
+- `STM32_SWD`: Debug header for stm32 SWD with no SWO pin
 - `SW_Push_PinReverse`: KiCad SW_Push_Pin schematic reversed to nicer schematic layout in Eeschema.
 - `TCA9617A/PCA9617A`: TI FM+ i2c bus repeater.
 - `TPD2E1B06`: Dual-Channel High-Speed ESD Protection
