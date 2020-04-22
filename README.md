@@ -18,6 +18,7 @@ KiCad Libraries for MechLlama projects
 - `SOT-143B`: Footprint for SOT-143B package. Pads are as small as possible to allow for nicer trace routing.
 - `Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical`: KiCad Tag Connect ISP header pads with connector outline on silkscreen and mounting holes.
 - `Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical`: KiCad Tag Connect ISP header pads with connector outline on silkscreen.
+- `TestPoint_Keystone_5000-5004_Miniature-DualSide.kicad_mod`: Test point with dual sided silkscreen markings.
 - `USB_C_Receptacle_HRO_TYPE-C-31-M-12`: Korean Hroparts Elec TYPE-C-31-M-12 footprint with correct KiCad pad names. Use with `USB_C_Receptacle_USB2.0-ReducedPins` schematic.
 
 ## Symbols
