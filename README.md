@@ -16,10 +16,7 @@ KiCad Libraries for MechLlama projects
 - `PinHeader_SSD1306`: Pin header for SSD1306 OLED screen. Includes Dwgs.User layer of PCB and screen location.
 - `PinHeader_SSD1306_NoLCD`: Pin header for SSD1306 OLED screen.
 - `SOT-143B`: Footprint for SOT-143B package. Pads are as small as possible to allow for nicer trace routing.
-- `Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical`: KiCad Tag Connect ISP header pads with connector outline on silkscreen and mounting holes.
-- `Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical`: KiCad Tag Connect ISP header pads with connector outline on silkscreen.
 - `TestPoint_Keystone_5000-5004_Miniature-DualSide.kicad_mod`: Test point with dual sided silkscreen markings.
-- `USB_C_Receptacle_HRO_TYPE-C-31-M-12`: Korean Hroparts Elec TYPE-C-31-M-12 footprint with correct KiCad pad names. Use with `USB_C_Receptacle_USB2.0-ReducedPins` schematic.
 
 ## Symbols
 ### `MechLlama.lib`
@@ -29,5 +26,4 @@ KiCad Libraries for MechLlama projects
 - `STM32_SWD`: Debug header for stm32 SWD with no SWO pin
 - `SW_Push_PinReverse`: KiCad SW_Push_Pin schematic reversed to nicer schematic layout in Eeschema.
 - `TCA9617A/PCA9617A`: TI FM+ i2c bus repeater.
-- `TPD2E1B06`: Dual-Channel High-Speed ESD Protection
-- `USB_C_Receptacle_USB2.0-ReducedPins`: KiCad USBC2.0 schematic with overlapping pins removed.
+- `TPD2E1B06`: Dual-Channel Bidirectional High-Speed ESD Protection
